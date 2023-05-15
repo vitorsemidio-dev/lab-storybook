@@ -20,6 +20,7 @@
     "@storybook/react": "^7.0.11",
     "@storybook/react-vite": "^7.0.11",
     "@storybook/testing-library": "^0.0.14-next.2",
+    "chromatic": "^6.17.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
